@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+PLAYER1	tiktactoe.c	6;"	d	file:
+PLAYER2	tiktactoe.c	7;"	d	file:
+askNumber	tiktactoe.c	/^int askNumber(){$/;"	f
+boardArr	tiktactoe.c	/^char boardArr[10] = {'0','1','2','3','4','5','6','7','8','9'}; \/\/ Use position 1 - 9$/;"	v
+checkForWin	tiktactoe.c	/^bool checkForWin(){$/;"	f
+choice	tiktactoe.c	/^int choice;$/;"	v
+drawBoard	tiktactoe.c	/^void drawBoard(){ $/;"	f
+drawHeader	tiktactoe.c	/^void drawHeader(){$/;"	f
+gameover	tiktactoe.c	/^bool gameover = 0;$/;"	v
+main	tiktactoe.c	/^int main(){$/;"	f
+markBoard	tiktactoe.c	/^void markBoard(char mark){$/;"	f
+player	tiktactoe.c	/^char player;$/;"	v
+refreshBoard	tiktactoe.c	/^void refreshBoard(){$/;"	f
